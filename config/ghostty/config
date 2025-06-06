@@ -1,0 +1,24 @@
+
+# You can preview the config here
+ 
+theme = Tomorrow Night
+background = #1d1f21
+foreground = #c5c8c6
+selection-background = #373b41
+selection-foreground = #c5c8c6
+cursor-color = #c5c8c6
+cursor-text = #1d1f21
+cursor-style = bar
+cursor-style-blink = true
+palette = 0=#000000
+palette = 7=#ffffff
+palette = 8=#000000
+palette = 9=#cc6666
+palette = 10=#b5bd68
+palette = 11=#f0c674
+palette = 12=#81a2be
+palette = 13=#b294bb
+palette = 14=#8abeb7
+palette = 15=#ffffff
+font-size = 13
+

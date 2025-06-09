@@ -1,0 +1,8 @@
+#!/bin/sh
+
+WALLPAPER=$(ls "$HOME/Wallpapers/" | rofi -dmenu -i -p "Select Wallpaper:" -font "Inconsolata Nerd Font 11" )
+if [ -n "$WALLPAPER" ]; then
+    swww img "$HOME/Wallpapers/$WALLPAPER" --transition-type="grow" --transition-fps="120" --transition-duration="0.6"
+    cp "$HOME/Wallpapers/$WALLPAPER" "$HOME/.config/hypr/hyprlock.png"
+fi
+

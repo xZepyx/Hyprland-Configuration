@@ -24,7 +24,7 @@ cd ..
 echo "🛠️ Cloning and copying Hyprland configuration..."
 git clone https://github.com/Adityavihaan/Hyprland-Configuration && \
 mkdir -p ~/.config && \
-cp -r Hyprland-Configuration/* ~/.config/
+cp -r Hyprland-Configuration/config* ~/.config/
 
 # -------------------------------------
 # ✅ Done

@@ -26,6 +26,11 @@ git clone https://github.com/Adityavihaan/Hyprland-Configuration && \
 mkdir -p ~/.config && \
 cp -r Hyprland-Configuration/config* ~/.config/
 
+echo "Installing Wallpapers"
+git clone https://github.com/Adityavihaan/WallBank.git && \
+mkdir -p ~/Wallpapers && /
+cp -r WallBank/* ~/Wallpapers/
+
 # -------------------------------------
 # ✅ Done
 # -------------------------------------

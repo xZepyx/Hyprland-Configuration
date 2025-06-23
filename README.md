@@ -1,5 +1,7 @@
 # Hyprlock Configuration – by Aditya
 
+Note - This Hyprland Configuration is way more clean and minimal now and im soon thinkin to update the configuration in a new branch called - NewHyprDots
+
 This is my personal configuration for [Hyprland](hyprland.org).
 
 ## 🔐 Features

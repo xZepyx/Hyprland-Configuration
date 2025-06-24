@@ -39,7 +39,7 @@ This is my personal configuration for [Hyprland](hyprland.org).
 - Force Exit Hyprland -- Super + M
 
 ## To Install 
-``bash 
+```bash 
 curl -s https://raw.githubusercontent.com/Astryxz-AXZ/Hyprland-Configuration/main/install.sh
 ```
 

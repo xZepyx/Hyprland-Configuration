@@ -40,8 +40,13 @@ This is my personal configuration for [Hyprland](hyprland.org).
 
 ## To Install 
 ```bash 
-curl -s https://raw.githubusercontent.com/Astryxz-AXZ/Hyprland-Configuration/main/install.sh
+curl -s https://raw.githubusercontent.com/Astryxz-AXZ/Hyprland-Configuration/main/install.sh | bash
 ```
+-If you get any issues regarding this please clone the repo and then do 
+```bash
+chmod +x install.sh
+```
+-And run the script
 
 
 ## Lock Screen (New)

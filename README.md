@@ -50,6 +50,8 @@ This is my personal configuration for [Hyprland](hyprland.org).
 
 
 >Credits For Waybar and Rofi Configs:
+>
+>
 ![Waybar](https://github.com/linuxmobile/hyprland-dots)
 >
 >

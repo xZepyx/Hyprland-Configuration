@@ -1,10 +1,11 @@
 # Hyprlock Configuration – by Aditya
 
-Note - This Hyprland Configuration is way more clean and minimal now and im soon thinkin to update the configuration in a new branch called - NewHyprDots
+Another Note - This Hyprland Configuration is now Officially Discontinued and will not be maintained or updated from now on.
+Secret - It may get updated but atleast not before september because i prefer BerryWM but there are chances
 
 This is my personal configuration for [Hyprland](hyprland.org).
 
-## 🔐 Features
+## Features
 
 - Clean, minimal layout
 - Minimal Waybar Config
@@ -37,20 +38,11 @@ This is my personal configuration for [Hyprland](hyprland.org).
 - Pseudo -- Super + P
 - Force Exit Hyprland -- Super + M
 
-## 📸 Lock Screen (New)
+## Lock Screen (New)
 
 > ![Hyprlock Screenshot](./previews/new_hyprlock.png)
 
-### Old
-
-![old.png](previews/old.png)
-![old2.png](previews/old2.png)
-![old3.png](previews/old3.png)
-![old4.png](previews/old4.png)
-![old5.png](previews/old5.png)
-![old6.png](previews/old6.png)
-
-### New
+## Desktop (New)
 
 ![new.png](previews/new.png)
 ![new2.png](previews/new2.png)

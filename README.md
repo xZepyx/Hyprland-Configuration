@@ -49,9 +49,8 @@ This is my personal configuration for [Hyprland](hyprland.org).
 ![Demo-New](previews/screenshot-1749275223.png)
 
 
-```bash
-Not everyconfig here is mine waybar,rofi and nvim configs are taken from the internet (I will credit the Actual Devs Soon I cant find em Sorry Devs, But i will soon)
-```
 >Credits For Waybar and Rofi Configs:
 ![Waybar](https://github.com/linuxmobile/hyprland-dots)
+>
+>
 ![Rofi](https://github.com/newmanls/rofi-themes-collection)

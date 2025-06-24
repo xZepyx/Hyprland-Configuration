@@ -38,6 +38,12 @@ This is my personal configuration for [Hyprland](hyprland.org).
 - Pseudo -- Super + P
 - Force Exit Hyprland -- Super + M
 
+## To Install 
+``bash 
+curl -s https://raw.githubusercontent.com/Astryxz-AXZ/Hyprland-Configuration/main/install.sh
+```
+
+
 ## Lock Screen (New)
 
 > ![Hyprlock Screenshot](./previews/new_hyprlock.png)

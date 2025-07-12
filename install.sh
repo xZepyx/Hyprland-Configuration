@@ -46,7 +46,7 @@ fi
 info "Installing essential system packages..."
 sudo pacman -S --needed --noconfirm \
     base-devel git \
-    kitty hyprland mako nautilus swww spotify discord \
+    kitty hyprland mako nautilus swww discord \
     grim slurp neovim fastfetch gedit obs-studio \
     ranger rofi waybar starship cava fish || error_handler "Core package installation"
 success "Core packages installed"

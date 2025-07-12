@@ -1,7 +1,4 @@
-# Hyprlock Configuration – by Aditya
-
-Another Note - This Hyprland Configuration is now Officially Discontinued and will not be maintained or updated from now on.
-Secret - It may get updated but atleast not before september because i prefer BerryWM but there are chances
+# Hyprlock Configuration – by Aditya Yadav
 
 This is my personal configuration for [Hyprland](hyprland.org).
 
@@ -66,3 +63,8 @@ chmod +x install.sh
 >
 >
 ![Rofi](https://github.com/newmanls/rofi-themes-collection)
+
+# Discontinued
+>This Hyprland Configuration is now Officially Discontinued and will not be maintained or updated from 15/4/2025.
+>It may have some updates if I start using Hyprland Again instead of BerryWM
+

@@ -1,6 +1,6 @@
 # Hyprlock Configuration – by Aditya Yadav
 
-# Note --- :
+# Note --- 
 > This Project is now discontinued please visit [HyprAstryxz](https://github.com/Aditya8912S/HyprAstryxz)
 
 This is my personal configuration for [Hyprland](hyprland.org).

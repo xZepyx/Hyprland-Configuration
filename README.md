@@ -1,5 +1,7 @@
 # Hyprlock Configuration – by Aditya Yadav
 
+# Note --- This Project is now discontinued please visit [HyprAstryxz](github.com/Aditya8912S/HyprAstryxz)
+
 This is my personal configuration for [Hyprland](hyprland.org).
 
 ## Features
@@ -63,8 +65,3 @@ chmod +x install.sh
 >
 >
 ![Rofi](https://github.com/newmanls/rofi-themes-collection)
-
-# Discontinued
->This Hyprland Configuration is now Officially Discontinued and will not be maintained or updated from 15/4/2025.
->It may have some updates if I start using Hyprland Again instead of BerryWM
-

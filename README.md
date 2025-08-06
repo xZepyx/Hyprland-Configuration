@@ -1,4 +1,4 @@
-# Hyprlock Configuration – by Aditya Yadav
+# Hyprland Configuration – by **Zepyx**
 
 # Note --- 
 > This Project is now discontinued please visit [HyprAstryxz](https://github.com/Aditya8912S/HyprAstryxz)
@@ -14,8 +14,6 @@ This is my personal configuration for [Hyprland](hyprland.org).
 - Integrated lock animation and styling
 - Power usage and battery indicators
 - Some custom scripts included for system lock via keybinds
-
-- By the way this hyprlock white color wallaper and in the new config wallapers are paid i got em for free (just for you)
 
 ## Binds -
 - Close App -- Super + C

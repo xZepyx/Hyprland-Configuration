@@ -1,7 +1,7 @@
 # Hyprland Configuration – by **Zepyx**
 
 # Note --- 
-> This Project is now discontinued please visit [HyprAstryxz](https://github.com/Aditya8912S/HyprAstryxz)
+> This Project is now discontinued please visit [HyprZepyx](https://github.com/xZepyx/HyprZepyx)
 
 This is my personal configuration for [Hyprland](hyprland.org).
 

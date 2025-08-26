@@ -1,66 +1,94 @@
 # Hyprland Configuration – by **Zepyx**
 
-# Note --- 
-> This Project is now discontinued please visit [HyprZepyx](https://github.com/xZepyx/HyprZepyx)
+> **Notice:**  
+> This project is no longer actively maintained. For the latest configuration updates and continued support, please refer to [HyprZepyx](https://github.com/xZepyx/HyprZepyx).
 
-This is my personal configuration for [Hyprland](hyprland.org).
+This repository contains my personal configuration for [Hyprland](https://hyprland.org), designed for a clean and minimal desktop experience with enhanced productivity features.
+
+---
 
 ## Features
 
-- Clean, minimal layout
-- Minimal Waybar Config
-- Clean Animations
-- 10+ animations sets for hyprland
-- Integrated lock animation and styling
-- Power usage and battery indicators
-- Some custom scripts included for system lock via keybinds
+- **Clean, Minimal Layout:** Focused on simplicity and clarity.
+- **Minimal Waybar Config:** Lightweight status bar with essential modules.
+- **Smooth Animations:** Over 10 unique animation sets for a polished look.
+- **Integrated Lock Animations & Styling:** Custom lock screen animation and theming.
+- **Power Usage & Battery Indicators:** Stay informed about your system's status.
+- **Custom Scripts:** Handy scripts for system lock, workspace management, and more.
 
-## Binds -
-- Close App -- Super + C
-- Open Rofi -- Super + Space
-- Open Terminal -- Super + Enter
-- Open File Explorer -- Super + E
-- Open Browser -- Super + B
-- Open Wallpaper Switcher -- Super + W
-- Set Lock Screen Wallpaper -- Alt + W  (It sets the current wallpaper to lock screen wallpaper)
-- Take Screenshot -- Super + D
-- Move Focus -- Super + Left,Right,Up,Down
-- Change Workspaces -- Super + 1,2,3,4,5,6,7,8,9,0
-- Move Window to a Workspace -- Super + Shift + 1,2,3,4,5,6,7,8,9,0
-- Fullscreen Any Window -- Super + F
-- Toggle Split -- Super + J
-- Reload Waybar -- Super + R
-- Lock Screen -- Super + L
-- Logout Menu -- Super + H
-- Toggle Floating + Super + V
-- Pseudo -- Super + P
-- Force Exit Hyprland -- Super + M
+---
 
-## To Install 
-```bash 
-curl -s https://raw.githubusercontent.com/Aditya8912S/Hyprland-Configuration/main/install.sh | bash
-```
--If you get any issues regarding this please clone the repo and then do 
+## Keybindings
+
+| Action                         | Key Combination               |
+|---------------------------------|-------------------------------|
+| Close App                      | `Super + C`                   |
+| Open Rofi                      | `Super + Space`               |
+| Open Terminal                  | `Super + Enter`               |
+| Open File Explorer             | `Super + E`                   |
+| Open Browser                   | `Super + B`                   |
+| Open Wallpaper Switcher        | `Super + W`                   |
+| Set Lock Screen Wallpaper      | `Alt + W`                     |
+| Take Screenshot                | `Super + D`                   |
+| Move Focus                     | `Super + Arrow Keys`          |
+| Change Workspaces              | `Super + 1..0`                |
+| Move Window to Workspace       | `Super + Shift + 1..0`        |
+| Fullscreen Window              | `Super + F`                   |
+| Toggle Split                   | `Super + J`                   |
+| Reload Waybar                  | `Super + R`                   |
+| Lock Screen                    | `Super + L`                   |
+| Logout Menu                    | `Super + H`                   |
+| Toggle Floating                | `Super + V`                   |
+| Toggle Pseudo Tile             | `Super + P`                   |
+| Force Exit Hyprland            | `Super + M`                   |
+
+---
+
+## Installation
+
+**Automated (use with caution):**
 ```bash
-chmod +x install.sh
+curl -s https://raw.githubusercontent.com/xZepyx/Hyprland-Configuration/main/install.sh | bash
 ```
--And run the script
 
+**Manual:**
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Aditya8912S/Hyprland-Configuration.git
+    cd Hyprland-Configuration
+    ```
+2. Make the install script executable:
+    ```bash
+    chmod +x install.sh
+    ```
+3. Run the script:
+    ```bash
+    ./install.sh
+    ```
 
-## Lock Screen (New)
+*If you encounter any issues with the script, please ensure you have the necessary permissions or run as superuser.*
 
-> ![Hyprlock Screenshot](./previews/new_hyprlock.png)
+---
 
-## Desktop (New)
+## Screenshots
 
-![new.png](previews/new.png)
-![new2.png](previews/new2.png)
+### Lock Screen (New)
+![Hyprlock Screenshot](./previews/new_hyprlock.png)
 
+### Desktop (New)
+![Desktop Screenshot 1](previews/new.png)
+![Desktop Screenshot 2](previews/new2.png)
 
->Credits For Waybar and Rofi Configs:
->
->
-![Waybar](https://github.com/linuxmobile/hyprland-dots)
->
->
-![Rofi](https://github.com/newmanls/rofi-themes-collection)
+---
+
+## Credits
+
+- **Waybar Config:**  
+  Based on [linuxmobile/hyprland-dots](https://github.com/linuxmobile/hyprland-dots)
+
+- **Rofi Themes:**  
+  From [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection)
+
+---
+
+Feel free to fork or use parts of this configuration for your own setup!
